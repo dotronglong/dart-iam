@@ -1,0 +1,11 @@
+name: iam
+description: A Dart package for IAM
+version: 0.0.1
+author: Long Do <me@dotronglong.com>
+homepage: https://github.com/dotronglong/dart-iam
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.14.2
